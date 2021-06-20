@@ -1,3 +1,5 @@
+/* Setup */
+
 *,
 *::before,
 *::after {
@@ -13,3 +15,5 @@ html {
     font-size: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Layout */
